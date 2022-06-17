@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Timaï</h1>
-<h3 align="center">Student in networks and telecommunications</h3>
+<div align="center">
+<img src="https://github.com/kazeyoba/kazeyoba/blob/main/bird-dance.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazeyoba&label=Profile%20views&color=0e75b6&style=flat" alt="kazeyoba" /> </p>
+### <div align="center">I'm Timaï, Student🎓 in networks🖥️and telecommunications📡</div>  
+  
 
-- 🌱 I’m currently learning **Python, PHP, MySQL, Docker**
+- 🔭 I’m currently working on [Admin panel database](https://github.com/kazeyoba/web2)  
+  
 
-- 📫 How to reach me **timai.selmi-pro@ik.me**
+- 🌱 I’m currently learning Docker and Go  
+  
 
-- ⚡ Fun fact **Ducks will rule the world!**
+- ⚡ Fun fact: Ducks will rule the world!🦆  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/timai_sailing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timai_sailing" height="30" width="40" /></a>
-</p>
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -62,6 +66,49 @@
 <br/>  
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazeyoba&show_icons=true&locale=en&layout=compact" alt="kazeyoba" /></p>
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/https://twitter.com/real_inuya" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/kazeyoba" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/timai_sailing" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazeyoba&" alt="kazeyoba" /></p>
+<br/>  
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=kazeyoba&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazeyoba&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kazeyoba&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
