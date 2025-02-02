@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [personnal blog](https://timai-blog.fr)
 
-- 🌱 I’m currently learning **Kubernetes, AWS and Proxmox Hypervisor, CICD**
+- 🌱 I’m currently learning **Kubernetes, IAC & Proxmox Hypervisor, CICD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kazeyoba](https://github.com/kazeyoba)
 
